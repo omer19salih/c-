@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\wordtarz\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:wordtarz\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\painttarz\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:painttarz\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|c:\\users\\salih \u00F6mer\\source\\repos\\gorselfinalsonodevv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\wordtarz\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:wordtarz\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\painttarz\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:painttarz\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51BA2D6-CE65-43B8-A17A-51548C8675B3}|GorselFinalSonOdevv.csproj|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordTarz\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\WordTarz\u0131.cs",
+              "RelativeDocumentMoniker": "WordTarz\u0131.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\WordTarz\u0131.cs",
+              "RelativeToolTip": "WordTarz\u0131.cs",
+              "ViewState": "AgIAALABAAAAAAAAAAAswLYBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:53:31.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaintTarz\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\PaintTarz\u0131.cs",
+              "RelativeDocumentMoniker": "PaintTarz\u0131.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\PaintTarz\u0131.cs",
+              "RelativeToolTip": "PaintTarz\u0131.cs",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAuwKwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:53:20.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\menu.cs",
+              "RelativeToolTip": "menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:53:05.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kay\u0131tOl.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Kay\u0131tOl.cs",
+              "RelativeDocumentMoniker": "Kay\u0131tOl.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Kay\u0131tOl.cs",
+              "RelativeToolTip": "Kay\u0131tOl.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAqwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:52:54.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AdminPanel.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\AdminPanel.cs",
+              "RelativeToolTip": "AdminPanel.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAuwIEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:52:06.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\class.cs",
+              "RelativeDocumentMoniker": "class.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\class.cs",
+              "RelativeToolTip": "class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:51:39.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:53:19.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:38:12.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\menu.cs [Design]",
+              "RelativeToolTip": "menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:36:36.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Giris.cs",
+              "RelativeDocumentMoniker": "Giris.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Giris.cs",
+              "RelativeToolTip": "Giris.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAtwKEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:36:45.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAmwNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:27:02.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WordTarz\u0131.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\WordTarz\u0131.cs",
+              "RelativeDocumentMoniker": "WordTarz\u0131.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\WordTarz\u0131.cs [Design]",
+              "RelativeToolTip": "WordTarz\u0131.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:21:38.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaintTarz\u0131.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\PaintTarz\u0131.cs",
+              "RelativeDocumentMoniker": "PaintTarz\u0131.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\PaintTarz\u0131.cs [Design]",
+              "RelativeToolTip": "PaintTarz\u0131.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:21:27.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AdminPanel.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\AdminPanel.cs [Design]",
+              "RelativeToolTip": "AdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:21:07.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Kay\u0131tOl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Kay\u0131tOl.cs",
+              "RelativeDocumentMoniker": "Kay\u0131tOl.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Kay\u0131tOl.cs [Design]",
+              "RelativeToolTip": "Kay\u0131tOl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:57.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Giris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Giris.cs",
+              "RelativeDocumentMoniker": "Giris.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Giris.cs [Design]",
+              "RelativeToolTip": "Giris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:45.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\salih \u00F6mer\\source\\repos\\GorselFinalSonOdevv\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:17:36.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
